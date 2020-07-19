@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // Create a pointer
+    // Create new a pointer
     int *pointer;
     int arr[] = {1, 2, 3, 4, 5, 6};
     // Copy the address of the array to the pointer
